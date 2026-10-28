@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278499062363",
+    "firebase_url": "https://trabalho-final-calculadora-default-rtdb.firebaseio.com",
+    "project_id": "trabalho-final-calculadora",
+    "storage_bucket": "trabalho-final-calculadora.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278499062363:android:a94028ee0141594f0ec57e",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278499062363-0lp7p068f5a2kmoe35vjumvo6oa4t59j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6KcAJxLpNwFg0Z-J5TEr4ew3gOSBFwWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278499062363-0lp7p068f5a2kmoe35vjumvo6oa4t59j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278499062363-3ajeaonhsgog2kb3p1ga8iq6d5656iio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bugsresolver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
